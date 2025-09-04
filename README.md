@@ -7,14 +7,9 @@
 </h1>
 
 
-
-
-
 <div align="center">
 <img src="https://media1.tenor.com/m/dB_25Ft2lZkAAAAd/sasha-animal-crossing.gif" align="center" style="width: 30%" />
 </div>  
-
-
 
 ### Hobbies:
 
@@ -31,10 +26,6 @@
 <img align="left" width="40px" style="padding-right:10px;" src="https://ali-img.100520.com/app_logo/202426/a0727886ae5a40af32ec5e77239c2fd1.png" />
                   
 <img align="left" width="40px" style="padding-right:10px;" src="https://dodo.ac/np/images/d/d7/Sasha%27s_Pic_PC_Texture.png" />
-
-
-
-
 
 </p>
 
